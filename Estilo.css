@@ -1,0 +1,17 @@
+h1{
+    color: cadetblue;
+    background-color:darkgray;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    color: red;
+    background-color: burlywood;
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+    color: blue;
+}
