@@ -1,0 +1,8 @@
+#imagen{
+    width: 400px;
+    float: left;
+}
+
+.limpiar{
+    clear: left;
+}

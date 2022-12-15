@@ -1,0 +1,24 @@
+body, h2{
+    margin: 0px;
+}
+.caja{
+    text-align: center;
+    background-color: cadetblue;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    border: 2px solid black;
+}
+
+#caja2{
+    left: 204px;
+}
+
+#caja3{
+    left: 407px;
+}
+
+#caja4{
+    top: 204px;
+    width: 607px;
+}

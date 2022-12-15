@@ -1,0 +1,27 @@
+body{
+    background-color: cadetblue;
+    background-image: url('../img/kodigo-fondo.png');
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+}
+
+p{
+    font-size: 30px;;
+}
+
+h1, p{
+    color: white;
+}
+
+.azul{
+    color: blue;
+}
+
+#imagen{
+    background-image: url('../img/kodigo-mac.png');
+    width: 500px; height: 300px;
+    text-align: center;
+    padding-top: 30px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}

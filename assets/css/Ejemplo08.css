@@ -1,0 +1,13 @@
+nav ul li{
+    font-size: 30px;
+    list-style: none;
+}
+
+.contenedor p{
+    font-size: 30px;
+    color:red;
+}
+
+div p span{
+    color: fuchsia;
+}
